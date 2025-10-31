@@ -1,3 +1,16 @@
+<h2>About This Project</h2>
+
+This is a project is a table that displays Pokemon information! The displayed sprite is toggleable between standard and shiny! Sorting can be done through various stats such as id, hight, can weight! 
+
+Function to filter by types and abilities! 
+
+Uses next.js framwork and TypeScript!
+
+
+
+<h2> Important Information? </h2>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
