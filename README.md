@@ -1,6 +1,6 @@
 <h2>About This Project</h2>
 
-This is a project is a table that displays Pokemon information! The displayed sprite is toggleable between standard and shiny! Sorting can be done through various stats such as id, height, and weight! 
+This is project is a table that displays Pokemon information! The displayed sprite is toggleable between standard and shiny! Sorting can be done through various stats such as id, height, and weight! 
 
 Function to filter by types and abilities! 
 
