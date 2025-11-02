@@ -4,7 +4,7 @@ This is project is a table that displays Pokemon information! The displayed spri
 
 Function to filter by types and abilities! 
 
-Uses next.js framwork and TypeScript!
+Uses next.js framework and TypeScript!
 
 
 
